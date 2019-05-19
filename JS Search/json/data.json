@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Arun",
+        "Role": "Developer",
+        "Description": "Begining developer"
+    },
+    {
+        "name": "Raja",
+        "Role": "Business Analyst",
+        "Description": "Begining BA"
+    },
+    {
+        "name": "Hari",
+        "Role": "OBIEE Developer",
+        "Decription": "Oracle buisness developer"
+    },{
+        "name": "Karthick",
+        "Role": "Hacker",
+        "Decription": "Specalist hacker"
+    },
+    {
+        "name": "Arun",
+        "Role": "Developer",
+        "Description": "Begining developer"
+    }
+]
